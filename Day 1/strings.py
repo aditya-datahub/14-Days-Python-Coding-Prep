@@ -12,4 +12,12 @@ print("Number of vowels: ", count)
 s= "I am damn very rich"
 words=s.split()
 print(words)
-print("Number of words: ", len(words))
+print("Total Number of words in a sentence: ", len(words))
+
+
+# Count the occurrences of each character in the given word 
+s="banana"
+freq = {}
+for ch in s:
+    freq[ch] = freq.get(ch,0)+1
+print(freq)
