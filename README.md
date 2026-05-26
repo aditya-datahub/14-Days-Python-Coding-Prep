@@ -1,1 +1,1 @@
-# 🚀 14 Days Python Coding Prep
+# 🚀 10 Days Python Coding Prep
